@@ -9,5 +9,5 @@
 >
 >5. The tensorflow version used is 2.8.0 and the version used for cuda is 11.5 and cudnn 8.2 is used for the prototype.
 >
->6. The model can be made on a larger cale and can help tracking down any vehicles if trained properly.
+>6. The model can be made on a larger scale and can help tracking down any vehicles if trained properly.
 >
